@@ -1,3 +1,5 @@
+# the eyefuck language
+## designed to fuck your eyes like brainfuck does with your brain
 | Command | Description |
 |---------|-------------|
 | `10` | raise the value of the current memory cell by 1 |
